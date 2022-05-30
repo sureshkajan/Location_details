@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Location</string>
+    <string name="enter_longitude">Enter Longitude</string>
+    <string name="update">UPDATE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="longitude">Longitude</string>
+    <string name="enter_latitude">Enter Latitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="update_record">Update Record</string>
+    <string name="place">Place</string>
+    <string name="enter_place">Enter Place</string>
+    <string name="add_record">ADD RECORD</string>
+    <string name="view">VIEW</string>
+    <string name="image">image</string>
+    <string name="add_location">Add Location</string>
+    <string name="label">Location Memo</string>
+    <string name="addLabel">Add Location</string>
+</resources>
